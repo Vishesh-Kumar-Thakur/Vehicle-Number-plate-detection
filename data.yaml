@@ -1,5 +1,5 @@
-train: D:/yolov8_license_plate_recog/1_license_plate_recog/dataset/train/images
-val: D:/yolov8_license_plate_recog/1_license_plate_recog/dataset/valid/images
+train: /content/Vehicle-Number-plate-detection/dataset/train/images
+val: /content/Vehicle-Number-plate-detection/dataset/valid/images
 test: D:/yolov8_license_plate_recog/1_license_plate_recog/dataset/test/images
 
 nc: 1
